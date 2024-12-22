@@ -1,6 +1,6 @@
 # TechLearner
 
-### **TechLearner Live**  
+### **TechLearner [Live](https://techlearner-frontend.vercel.app/) **  
 **TechLearner** is a fully functional ed-tech learning platform enabling users to create, consume, and rate educational content. Built using the **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS), it provides a seamless and interactive learning experience.
 
 ---
@@ -105,6 +105,6 @@ Contributions are welcome! Feel free to open an issue or a pull request for sugg
 ### **Contact**  
 
 - **Email**: ritikchouhan596@gmail.com  
-- **LinkedIn**: [Lakshya Chouhan](linkedin.com/in/lakshya-chouhan-301898256)  
+- **LinkedIn**: [Lakshya Chouhan](https://linkedin.com/in/lakshya-chouhan-301898256)  
 - **Website**: [TechLearner](https://techlearner-frontend.vercel.app/)
 
