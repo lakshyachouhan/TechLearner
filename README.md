@@ -1,7 +1,7 @@
 # TechLearner
 
 ### **TechLearner Live**  
-**StudyNova** is a fully functional ed-tech learning platform enabling users to create, consume, and rate educational content. Built using the **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS), it provides a seamless and interactive learning experience.
+**TechLearner** is a fully functional ed-tech learning platform enabling users to create, consume, and rate educational content. Built using the **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS), it provides a seamless and interactive learning experience.
 
 ---
 
@@ -88,3 +88,23 @@
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/lakshyachouhan/TechLearner.git
+2. **Install dependencies:**  
+   ```bash
+   npm install
+3. **Start the development server:**  
+   ```bash
+   npm run dev
+4. **Open the project in your browser:**  
+   ```bash
+  http://localhost:3000
+
+
+### **Contributing**  
+Contributions are welcome! Feel free to open an issue or a pull request for suggestions and improvements.
+
+### **Contact**  
+
+- **Email**: ritikchouhan596@gmail.com  
+- **LinkedIn**: [Lakshya Chouhan](linkedin.com/in/lakshya-chouhan-301898256)  
+- **Website**: [TechLearner](https://techlearner-frontend.vercel.app/)
+
