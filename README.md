@@ -1,6 +1,6 @@
 # TechLearner
 
-### **TechLearner [Live](https://techlearner-frontend.vercel.app/) **  
+### **TechLearner [Live](https://techlearner-frontend.vercel.app/)**  
 **TechLearner** is a fully functional ed-tech learning platform enabling users to create, consume, and rate educational content. Built using the **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS), it provides a seamless and interactive learning experience.
 
 ---
@@ -95,7 +95,6 @@
    ```bash
    npm run dev
 4. **Open the project in your browser:**  
-   ```bash
   http://localhost:3000
 
 
